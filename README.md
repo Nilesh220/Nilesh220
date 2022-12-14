@@ -35,8 +35,8 @@
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5D5C5B&width=1075&lines=I+❤️+connecting+with+people.+so+if+you+want+to+say+hi%2C+I'll+be+happy+to+meet+you+more!+%3A)" alt="Typing SVG" /></a></div><br>
- <a href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5D5C5B&width=1075&lines=Show+some+❤️+to + My+  + repositories + and + that follow+ button+ Nice + to + meet+ you + have+ a+ nice+ day+ !+%3A)" alt="Typing SVG" /></a></div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5D5C5B&width=1075&lines=I+❤️+connecting+with+people.+so+if+you+want+to+say+hi%2C+I'll+be more++happy!+%3A)" alt="Typing SVG" /></a></div><br>
+ <a href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5D5C5B&width=1075&lines=Show+some+❤️+to + My+  + repositories + and + that follow+ button+ Nice + to + meet+ you+ !+%3A)" alt="Typing SVG" /></a></div>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
 </div>
