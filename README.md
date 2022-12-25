@@ -36,11 +36,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh220&" alt="nilesh220" /></p>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
+```python
 print("Hello I am Nilesh🙋‍♂️.
 Nice to meet you. see you soon")
 ```
-```
+```python
 print("Show some ❤️ to my Repositories.")
 ```
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
