@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh220&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh220" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/followers/Nilesh220.svg?style=social&label=Follow" alt="Nilesh220" /> </p>
 
-- 🔭 I’m currently working on **Facebook clone website**
+- 🔭 I’m currently working on **Blog Website**
 
 - 🌱 I’m currently learning **Javascript**
 
